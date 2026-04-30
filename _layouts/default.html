@@ -4,28 +4,38 @@
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
+
 <body>
 
-<header class="site-header">
-  <div class="container">
-    <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+<header class="navbar">
+  <div class="nav-container">
+    <div class="logo">
+      <a href="{{ "/" | relative_url }}">{{ site.title }}</a>
+    </div>
+
+    <nav>
+      <a href="{{ "/" | relative_url }}">Home</a>
+      <a href="{{ "/blog/" | relative_url }}">Blog</a>
+    </nav>
   </div>
 </header>
 
-<main class="container">
+<main>
   {{ content }}
 </main>
 
-<footer class="site-footer">
+<footer class="footer">
   <div class="container">
+    <h3>{{ site.author.name }}</h3>
     <p>{{ site.author.bio }}</p>
-    <p>
-      Contact: 
-      <a href="mailto:{{ site.author.email }}">Email</a> |
+
+    <div class="social">
+      <a href="mailto:{{ site.author.email }}">Email</a>
       <a href="https://x.com/{{ site.author.twitter }}">X</a>
-    </p>
+    </div>
   </div>
 </footer>
 
