@@ -6,6 +6,35 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <meta name="description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
+<meta name="keywords" content="product reviews, tech analysis, product comparison, market research">
+<meta name="author" content="Rizky Pratama">
+
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Rizky Pratama Blog",
+  "url": "{{ site.url }}{{ site.baseurl }}",
+  "author": {
+    "@type": "Person",
+    "name": "Rizky Pratama"
+  },
+  "description": "Product reviews, tech insights, and market analysis"
+}
+</script>
 </head>
 
 <body>
