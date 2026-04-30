@@ -14,3 +14,20 @@ layout: default
 
   </div>
 </article>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": "Rizky Pratama"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rizky Pratama Blog"
+  },
+  "description": "{{ page.excerpt | strip_html }}"
+}
+</script>
