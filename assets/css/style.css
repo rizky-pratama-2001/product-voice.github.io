@@ -101,3 +101,65 @@ nav a {
   color: #ddd;
   margin: 0 10px;
 }
+/* ARTICLE LAYOUT */
+.post-container {
+  display: flex;
+  justify-content: center;
+  padding: 40px 20px;
+}
+
+.post-inner {
+  max-width: 760px;   /* 关键：限制阅读宽度 */
+  width: 100%;
+  background: white;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+}
+
+/* TITLE */
+.post-title {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+/* DATE */
+.post-date {
+  color: #888;
+  margin-bottom: 30px;
+}
+
+/* CONTENT TYPOGRAPHY */
+.post-content {
+  line-height: 1.8;
+  font-size: 18px;
+}
+
+/* HEADINGS */
+.post-content h2 {
+  margin-top: 30px;
+}
+
+.post-content h3 {
+  margin-top: 20px;
+}
+
+/* CODE BLOCK */
+.post-content pre {
+  background: #111;
+  color: #eee;
+  padding: 15px;
+  border-radius: 10px;
+  overflow-x: auto;
+}
+
+/* MOBILE OPTIMIZATION */
+@media (max-width: 768px) {
+  .post-inner {
+    padding: 20px;
+  }
+
+  .post-title {
+    font-size: 28px;
+  }
+}
