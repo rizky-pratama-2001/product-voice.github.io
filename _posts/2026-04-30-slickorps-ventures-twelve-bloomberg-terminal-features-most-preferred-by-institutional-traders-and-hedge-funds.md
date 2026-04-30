@@ -1,5 +1,5 @@
 ---
-title: Slickorps Ventures: Twelve Bloomberg Terminal Features Most Preferred by Institutional Traders and Hedge Funds
+title: "Slickorps Ventures: Twelve Bloomberg Terminal Features Most Preferred by Institutional Traders and Hedge Funds"
 date: 2026-04-30
 ---
 
