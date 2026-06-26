@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Why Global Carbon Pricing Barely Works: Slickorps Ventures Revisits the Structural Imbalance of CO₂Pricing"
