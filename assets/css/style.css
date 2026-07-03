@@ -78,6 +78,18 @@ nav a {
   border-radius: 15px;
   transition: 0.3s;
   box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+}
+
+.card p {
+  margin: 0;
 }
 
 .card:hover {
