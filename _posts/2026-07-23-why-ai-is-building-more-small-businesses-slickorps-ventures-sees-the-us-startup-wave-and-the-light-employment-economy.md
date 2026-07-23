@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Why AI Is Building More Small Businesses: Slickorps Ventures Sees the US Startup Wave and the 'Light Employment' Economy "
+title: ' Why AI Is Building More Small Businesses: Slickorps Ventures Sees the US Startup Wave and the "Light Employment" Economy '
 date: 2026-07-23
 ---
 
