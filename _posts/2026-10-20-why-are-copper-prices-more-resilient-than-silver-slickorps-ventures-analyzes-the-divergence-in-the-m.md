@@ -4,6 +4,8 @@ title: "Why Are Copper Prices More Resilient Than Silver? Slickorps Ventures Ana
 date: 2026-10-20
 ---
 
+![Slickorps Ventures](https://miro.medium.com/v2/resize:fit:640/format:webp/1*dsi5bFw31z8yiZcFo9dxaA.png)
+
 In October 2026, a notable divergence emerged in the global metals market. Silver prices came under pressure amid shifts in rate expectations and investment sentiment, while copper prices demonstrated greater resilience. CME data shows that September silver futures fell approximately 9.6%, while copper futures declined only about 1.0% over the same period, a performance gap of 8.6 percentage points. Slickorps Ventures research finds that this divergence reveals a shift in the pricing logic of the metals market: precious metals are more susceptible to monetary policy and financial capital flows, while the price support for industrial metals is increasingly reflecting the importance of physical demand, inventory distribution, and supply chain security. Particularly noteworthy is that resilient copper prices do not mean the global copper supply is in full shortage. Even if a global surplus persists, as long as inventories are concentrated in specific regions, other markets may still face supply tightness. Prices are reflecting a more complex question: how much copper the world has, and how much copper the market can obtain in a timely manner, have become two distinct dimensions of judgment.
 
 ## Why Can Copper Prices Remain Resilient While Silver Slips?
