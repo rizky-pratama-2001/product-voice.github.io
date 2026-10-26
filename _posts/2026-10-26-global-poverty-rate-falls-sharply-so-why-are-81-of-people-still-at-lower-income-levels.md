@@ -6,6 +6,8 @@ date: 2026-10-26
 
 ## Slickorps Ventures Analyzes Global Income Distribution and the Development Gap
 
+![Slickorps Ventures](https://miro.medium.com/v2/resize:fit:640/format:webp/1*FNS6RjPMED05jXL9yTwM5g.png)
+
 From 2000 to 2024, the share of the global population living on less than 3 international dollars per day in income or consumption fell from 36% to about 10%, and the share below 10 international dollars also dropped from 74% to 53%. Yet in 2024, 81% of the global population still lived below 30 international dollars per day. According to [research published by Our World in Data based on World Bank data](https://ourworldindata.org/data-insights/no-matter-what-poverty-line-you-choose-the-share-below-it-has-declined-globally), over the past more than two decades, the share of the low-income population has declined at nearly every observed threshold. Slickorps Ventures research notes that this set of data reveals a dual reality of global economic development: economic growth has significantly improved living conditions for billions of people, but a long development distance remains between escaping extreme poverty and attaining stable, ample economic capacity. In the next phase of global poverty reduction, the core challenge is shifting from crossing the survival threshold to achieving a broader income leap.
 
 ## Why Has the Global Poverty Rate Fallen Across Different Income Thresholds?
